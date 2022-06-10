@@ -1,1 +1,10 @@
 # Bankist-Web-Page
+![image](https://user-images.githubusercontent.com/93324684/173071598-d7a772f9-8f93-4a06-bf02-6c6f6a0c1fe4.png)
+![image](https://user-images.githubusercontent.com/93324684/173071691-05e3300f-e25c-4fda-b424-85bacb6bbcca.png)
+![image](https://user-images.githubusercontent.com/93324684/173071823-423973f9-de03-498f-ba95-5a7c9cc29404.png)
+![image](https://user-images.githubusercontent.com/93324684/173071919-b6fd630e-5a9c-47b5-a38b-e1473f14ffdd.png)
+![image](https://user-images.githubusercontent.com/93324684/173072016-26aa665e-f80e-48d6-bd22-1938175eab70.png)
+![image](https://user-images.githubusercontent.com/93324684/173072084-029bac16-48be-4655-8401-dc6b76a03c93.png)
+![image](https://user-images.githubusercontent.com/93324684/173072171-abb83074-fa42-4a5d-b19c-a9dcf5d8c5f8.png)
+![image](https://user-images.githubusercontent.com/93324684/173072252-fdc9215e-dbd6-4cd1-b3f3-9e294934aa6d.png)
+![image](https://user-images.githubusercontent.com/93324684/173072337-4f46d52e-6fd3-4545-92c9-d5cd2de8a563.png)
